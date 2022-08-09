@@ -5,7 +5,7 @@ keywords: null
 author: MGTCC
 language: en
 timezone: ''
-url: http://example.com
+url: https://ncumgtcc.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -63,4 +63,4 @@ theme: icarus
 deploy:
   type: git
   repo: https://github.com/ncumgtcc/ncumgtcc.github.io.git
-  branch: main
+  branch: gh-pages
