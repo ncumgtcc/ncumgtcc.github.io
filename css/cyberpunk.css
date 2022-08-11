@@ -10804,6 +10804,7 @@ article.media .media-content {
 article.media .media-content .title {
   margin: 0;
   line-height: inherit;
+  font-size: 22px;
 }
 article.article .article-meta,
 article.article .article-tags {
